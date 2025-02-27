@@ -1,0 +1,398 @@
+[
+    {
+        "date": "30 de Diciembre, 1988",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "18 de Diciembre, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Fernández Vial",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "10 de Diciembre, 1988",
+        "stadium": "Sausalito",
+        "homeTeam": "Everton",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "08 de Diciembre, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "04 de Diciembre, 1988",
+        "stadium": "Zorros del Desierto",
+        "homeTeam": "Cobreloa",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "27 de Noviembre, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Valdivia",
+        "homeScore": 5,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "20 de Noviembre, 1988",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "13 de Noviembre, 1988",
+        "stadium": "Tierra de Campeones",
+        "homeTeam": "Deportes Iquique",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "06 de Noviembre, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "30 de Octubre, 1988",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "23 de Octubre, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "16 de Octubre, 1988",
+        "stadium": "Estadio El Cobre",
+        "homeTeam": "Cobresal",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "12 de Octubre, 1988",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "09 de Octubre, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "02 de Octubre, 1988",
+        "stadium": "El Morro",
+        "homeTeam": "Los Náuticos",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "25 de Septiembre, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "18 de Septiembre, 1988",
+        "stadium": "Ester Roa",
+        "homeTeam": "Fernández Vial",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "11 de Septiembre, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 4,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "04 de Septiembre, 1988",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "28 de Agosto, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobreloa",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "21 de Agosto, 1988",
+        "stadium": "Parque Municipal",
+        "homeTeam": "Deportes Valdivia",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "14 de Agosto, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "07 de Agosto, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Iquique",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "31 de Julio, 1988",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "24 de Julio, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "17 de Julio, 1988",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "10 de Julio, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "26 de Junio, 1988",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "23 de Junio, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "20 de Junio, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Los Náuticos",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "08 de Junio, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Malleco Unido Joven",
+        "homeScore": 5,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "22 de Mayo, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Temuco",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "15 de Mayo, 1988",
+        "stadium": "Regional de Chinquihue",
+        "homeTeam": "Puerto Montt",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "08 de Mayo, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "CDS Iberia",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "17 de Abril, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Osorno",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "06 de Abril, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "03 de Abril, 1988",
+        "stadium": "Germán Becker",
+        "homeTeam": "Temuco",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "27 de Marzo, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Puerto Montt",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1988"
+    },
+    {
+        "date": "01 de Febrero, 1988",
+        "stadium": "El Morro",
+        "homeTeam": "Los Náuticos",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1986/87"
+    },
+    {
+        "date": "28 de Enero, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1986/87"
+    },
+    {
+        "date": "24 de Enero, 1988",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1986/87"
+    },
+    {
+        "date": "16 de Enero, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1986/87"
+    },
+    {
+        "date": "09 de Enero, 1988",
+        "stadium": "Fiscal de Talca",
+        "homeTeam": "Rangers de Talca",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1986/87"
+    },
+    {
+        "date": "03 de Enero, 1988",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1986/87"
+    }
+]

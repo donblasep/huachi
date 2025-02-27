@@ -1,0 +1,227 @@
+[
+    {
+        "date": "29 de Diciembre, 1973",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "22 de Diciembre, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Lota Schwager",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "15 de Diciembre, 1973",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "09 de Diciembre, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión San Felipe",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "02 de Diciembre, 1973",
+        "stadium": "Municipal de Ñuñoa",
+        "homeTeam": "Green Cross",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "25 de Noviembre, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "11 de Noviembre, 1973",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "04 de Noviembre, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "01 de Noviembre, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "28 de Octubre, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Antofagasta Portuario",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "21 de Octubre, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "15 de Octubre, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Magallanes",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "29 de Julio, 1973",
+        "stadium": "Nicolás Chahuán",
+        "homeTeam": "Unión La Calera",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "22 de Julio, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Rangers de Talca",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "15 de Julio, 1973",
+        "stadium": "El Morro",
+        "homeTeam": "Los Náuticos",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "07 de Julio, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "24 de Junio, 1973",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "17 de Junio, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "10 de Junio, 1973",
+        "stadium": "Federico Schwager",
+        "homeTeam": "Lota Schwager",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "03 de Junio, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "27 de Mayo, 1973",
+        "stadium": "Municipal de San Felipe",
+        "homeTeam": "Unión San Felipe",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "20 de Mayo, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Green Cross",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "28 de Abril, 1973",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "21 de Abril, 1973",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "15 de Abril, 1973",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1973"
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "date": "05 de Diciembre, 2015",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "30 de Noviembre, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "21 de Noviembre, 2015",
+        "stadium": "Municipal La Florida",
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "08 de Noviembre, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "03 de Noviembre, 2015",
+        "stadium": "Municipal Lucio Fariña",
+        "homeTeam": "San Luis de Quillota",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "25 de Octubre, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "16 de Octubre, 2015",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "11 de Octubre, 2015",
+        "stadium": "Ester Roa",
+        "homeTeam": "Univ. Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "07 de Octubre, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Concepción",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "03 de Octubre, 2015",
+        "stadium": "Estadio Carlos Dittborn",
+        "homeTeam": "San Marcos Arica",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "26 de Septiembre, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "13 de Septiembre, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Antofagasta",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "06 de Septiembre, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Puerto Montt",
+        "homeScore": 5,
+        "awayScore": 3,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "03 de Septiembre, 2015",
+        "stadium": "Regional de Chinquihue",
+        "homeTeam": "Puerto Montt",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "29 de Agosto, 2015",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "22 de Agosto, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión La Calera",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "19 de Agosto, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Olimpia",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Copa Sudamericana 2015"
+    },
+    {
+        "date": "15 de Agosto, 2015",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "13 de Agosto, 2015",
+        "stadium": "Osvaldo Domínguez Dibb",
+        "homeTeam": "Olimpia",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Copa Sudamericana 2015"
+    },
+    {
+        "date": "08 de Agosto, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Iquique",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "02 de Agosto, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "01 de Agosto, 2015",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "26 de Julio, 2015",
+        "stadium": "Ester Roa",
+        "homeTeam": "Univ. Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Apertura 2015/16"
+    },
+    {
+        "date": "19 de Julio, 2015",
+        "stadium": "Nicolás Chahuán",
+        "homeTeam": "Ñublense",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "15 de Julio, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Ñublense",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "12 de Julio, 2015",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "09 de Julio, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Copa Chile 2015/16"
+    },
+    {
+        "date": "02 de Mayo, 2015",
+        "stadium": "Tierra de Campeones",
+        "homeTeam": "Deportes Iquique",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "26 de Abril, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "San Marcos Arica",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "18 de Abril, 2015",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "12 de Abril, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Barnechea",
+        "homeScore": 4,
+        "awayScore": 1,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "05 de Abril, 2015",
+        "stadium": "Zorros del Desierto",
+        "homeTeam": "Cobreloa",
+        "awayTeam": "Huachipato",
+        "homeScore": 6,
+        "awayScore": 0,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "25 de Marzo, 2015",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "21 de Marzo, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "16 de Marzo, 2015",
+        "stadium": "Municipal La Florida",
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "07 de Marzo, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 3,
+        "awayScore": 5,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "02 de Marzo, 2015",
+        "stadium": "Nicolás Chahuán",
+        "homeTeam": "Unión La Calera",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "21 de Febrero, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Antofagasta",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "16 de Febrero, 2015",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "07 de Febrero, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "30 de Enero, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "18 de Enero, 2015",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "09 de Enero, 2015",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Concepción",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Clausura 2014/15"
+    },
+    {
+        "date": "03 de Enero, 2015",
+        "stadium": "Nicolás Chahuán",
+        "homeTeam": "Ñublense",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Clausura 2014/15"
+    }
+]

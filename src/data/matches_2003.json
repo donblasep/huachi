@@ -1,0 +1,353 @@
+[
+    {
+        "date": "28 de Noviembre, 2003",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "23 de Noviembre, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "09 de Noviembre, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Audax Italiano",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "02 de Noviembre, 2003",
+        "stadium": "Estadio El Cobre",
+        "homeTeam": "Cobresal",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "24 de Octubre, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 3,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "18 de Octubre, 2003",
+        "stadium": "Municipal de San Felipe",
+        "homeTeam": "Unión San Felipe",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 4,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "15 de Octubre, 2003",
+        "stadium": "Germán Becker",
+        "homeTeam": "Temuco",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "05 de Octubre, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Puerto Montt",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "27 de Septiembre, 2003",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "21 de Septiembre, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobreloa",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "13 de Septiembre, 2003",
+        "stadium": "Francisco Sánchez Rumoroso",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "31 de Agosto, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Rangers de Talca",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "24 de Agosto, 2003",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "16 de Agosto, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Concepción",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "09 de Agosto, 2003",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 5,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "02 de Agosto, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "26 de Julio, 2003",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2002/03"
+    },
+    {
+        "date": "17 de Julio, 2003",
+        "stadium": "Municipal Rubén Marcos Peralta",
+        "homeTeam": "Osorno",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Playoff Sud. 2003"
+    },
+    {
+        "date": "14 de Julio, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Fernández Vial",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Playoff Sud. 2003"
+    },
+    {
+        "date": "09 de Julio, 2003",
+        "stadium": "Federico Schwager",
+        "homeTeam": "Lota Schwager",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Playoff Sud. 2003"
+    },
+    {
+        "date": "25 de Junio, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobreloa",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "21 de Junio, 2003",
+        "stadium": "Regional de Chinquihue",
+        "homeTeam": "Puerto Montt",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "19 de Junio, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Puerto Montt",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "31 de Mayo, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "24 de Mayo, 2003",
+        "stadium": "Municipal La Florida",
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "16 de Mayo, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "10 de Mayo, 2003",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "04 de Mayo, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión San Felipe",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "27 de Abril, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Temuco",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "19 de Abril, 2003",
+        "stadium": "Regional de Chinquihue",
+        "homeTeam": "Puerto Montt",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "13 de Abril, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Wanderers",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "05 de Abril, 2003",
+        "stadium": "Zorros del Desierto",
+        "homeTeam": "Cobreloa",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "23 de Marzo, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Coquimbo Unido",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "15 de Marzo, 2003",
+        "stadium": "Fiscal de Talca",
+        "homeTeam": "Rangers de Talca",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "08 de Marzo, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "02 de Marzo, 2003",
+        "stadium": "Ester Roa",
+        "homeTeam": "Univ. Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "23 de Febrero, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "15 de Febrero, 2003",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    },
+    {
+        "date": "09 de Febrero, 2003",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2002/03"
+    }
+]

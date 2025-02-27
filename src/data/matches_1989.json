@@ -1,0 +1,218 @@
+[
+    {
+        "date": "30 de Diciembre, 1989",
+        "stadium": "Fiscal de Talca",
+        "homeTeam": "Rangers de Talca",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "16 de Diciembre, 1989",
+        "stadium": "Sausalito",
+        "homeTeam": "Everton",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "09 de Diciembre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 0,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "03 de Diciembre, 1989",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 5,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "29 de Noviembre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "25 de Noviembre, 1989",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "19 de Noviembre, 1989",
+        "stadium": "Tierra de Campeones",
+        "homeTeam": "Deportes Iquique",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "15 de Noviembre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión San Felipe",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "12 de Noviembre, 1989",
+        "stadium": "El Morro",
+        "homeTeam": "Los Náuticos",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "05 de Noviembre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "01 de Noviembre, 1989",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "29 de Octubre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "25 de Octubre, 1989",
+        "stadium": "Ester Roa",
+        "homeTeam": "Fernández Vial",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "22 de Octubre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Valdivia",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "18 de Octubre, 1989",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "15 de Octubre, 1989",
+        "stadium": "Zorros del Desierto",
+        "homeTeam": "Cobreloa",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "12 de Octubre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Rangers de Talca",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "08 de Octubre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "24 de Septiembre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "17 de Septiembre, 1989",
+        "stadium": "Estadio El Cobre",
+        "homeTeam": "Cobresal",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "10 de Septiembre, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1988/89"
+    },
+    {
+        "date": "15 de Enero, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "08 de Enero, 1989",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    },
+    {
+        "date": "04 de Enero, 1989",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Los Náuticos",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1987/88"
+    }
+]

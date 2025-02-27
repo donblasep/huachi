@@ -1,0 +1,398 @@
+[
+    {
+        "date": "03 de Diciembre, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "26 de Noviembre, 2005",
+        "stadium": "Estadio El Cobre",
+        "homeTeam": "Cobresal",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "19 de Noviembre, 2005",
+        "stadium": "Zorros del Desierto",
+        "homeTeam": "Cobreloa",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "05 de Noviembre, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Wanderers",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "03 de Noviembre, 2005",
+        "stadium": "Fiscal de Talca",
+        "homeTeam": "Rangers de Talca",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "30 de Octubre, 2005",
+        "stadium": "Francisco Sánchez Rumoroso",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "25 de Octubre, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Temuco",
+        "homeScore": 5,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "22 de Octubre, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "15 de Octubre, 2005",
+        "stadium": "Regional de Chinquihue",
+        "homeTeam": "Puerto Montt",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "01 de Octubre, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "28 de Septiembre, 2005",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "25 de Septiembre, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "17 de Septiembre, 2005",
+        "stadium": "Municipal La Florida",
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "10 de Septiembre, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "28 de Agosto, 2005",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "21 de Agosto, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "14 de Agosto, 2005",
+        "stadium": "Municipal de San Felipe",
+        "homeTeam": "Unión San Felipe",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "06 de Agosto, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Concepción",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "31 de Julio, 2005",
+        "stadium": "Estadio El Cobre",
+        "homeTeam": "Cobresal",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "23 de Julio, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "17 de Julio, 2005",
+        "stadium": "Municipal Roberto Bravo",
+        "homeTeam": "Melipilla",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Clausura 2004/05"
+    },
+    {
+        "date": "25 de Junio, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Coquimbo Unido",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "22 de Junio, 2005",
+        "stadium": "Francisco Sánchez Rumoroso",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "18 de Junio, 2005",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "11 de Junio, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "30 de Mayo, 2005",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "21 de Mayo, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Audax Italiano",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "14 de Mayo, 2005",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "06 de Mayo, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Coquimbo Unido",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "30 de Abril, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión San Felipe",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "24 de Abril, 2005",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "16 de Abril, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Melipilla",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "09 de Abril, 2005",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "03 de Abril, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Puerto Montt",
+        "homeScore": 1,
+        "awayScore": 4,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "18 de Marzo, 2005",
+        "stadium": "Sausalito",
+        "homeTeam": "Everton",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "12 de Marzo, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "06 de Marzo, 2005",
+        "stadium": "Ester Roa",
+        "homeTeam": "Univ. Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "27 de Febrero, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "19 de Febrero, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Rangers de Talca",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "13 de Febrero, 2005",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "06 de Febrero, 2005",
+        "stadium": "Germán Becker",
+        "homeTeam": "Temuco",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "02 de Febrero, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobreloa",
+        "homeScore": 5,
+        "awayScore": 4,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "29 de Enero, 2005",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    },
+    {
+        "date": "21 de Enero, 2005",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 4,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2004/05"
+    }
+]

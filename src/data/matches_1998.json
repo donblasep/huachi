@@ -1,0 +1,326 @@
+[
+    {
+        "date": "13 de Diciembre, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "07 de Diciembre, 1998",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "29 de Noviembre, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Wanderers",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "22 de Noviembre, 1998",
+        "stadium": "Fiscal de Talca",
+        "homeTeam": "Rangers de Talca",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "15 de Noviembre, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Puerto Montt",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "07 de Noviembre, 1998",
+        "stadium": "Tierra de Campeones",
+        "homeTeam": "Deportes Iquique",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "01 de Noviembre, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "25 de Octubre, 1998",
+        "stadium": "Zorros del Desierto",
+        "homeTeam": "Cobreloa",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "18 de Octubre, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "10 de Octubre, 1998",
+        "stadium": "Germán Becker",
+        "homeTeam": "Temuco",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "03 de Octubre, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "27 de Septiembre, 1998",
+        "stadium": "Municipal Rubén Marcos Peralta",
+        "homeTeam": "Osorno",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "19 de Septiembre, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Audax Italiano",
+        "homeScore": 3,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "13 de Septiembre, 1998",
+        "stadium": "Francisco Sánchez Rumoroso",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "05 de Septiembre, 1998",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "30 de Agosto, 1998",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "23 de Agosto, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "15 de Agosto, 1998",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "09 de Agosto, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Rangers de Talca",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "05 de Agosto, 1998",
+        "stadium": "Regional de Chinquihue",
+        "homeTeam": "Puerto Montt",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "01 de Agosto, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Iquique",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "25 de Julio, 1998",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "19 de Julio, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobreloa",
+        "homeScore": 6,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "15 de Julio, 1998",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "06 de Mayo, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Temuco",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "02 de Mayo, 1998",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "26 de Abril, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Osorno",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "19 de Abril, 1998",
+        "stadium": "Municipal La Florida",
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "12 de Abril, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Coquimbo Unido",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "05 de Abril, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1997/98"
+    },
+    {
+        "date": "08 de Marzo, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Puerto Montt",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1998"
+    },
+    {
+        "date": "04 de Marzo, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Osorno",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1998"
+    },
+    {
+        "date": "28 de Febrero, 1998",
+        "stadium": "Germán Becker",
+        "homeTeam": "Temuco",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1998"
+    },
+    {
+        "date": "22 de Febrero, 1998",
+        "stadium": "Regional de Chinquihue",
+        "homeTeam": "Puerto Montt",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1998"
+    },
+    {
+        "date": "18 de Febrero, 1998",
+        "stadium": "Municipal Rubén Marcos Peralta",
+        "homeTeam": "Osorno",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1998"
+    },
+    {
+        "date": "14 de Febrero, 1998",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Temuco",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1998"
+    }
+]

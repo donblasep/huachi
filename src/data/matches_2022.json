@@ -1,0 +1,353 @@
+[
+    {
+        "date": "05 de Noviembre, 2022",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 5,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "30 de Octubre, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "22 de Octubre, 2022",
+        "stadium": "Nicolás Chahuán",
+        "homeTeam": "Ñublense",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "16 de Octubre, 2022",
+        "stadium": "Municipal San Bernardo",
+        "homeTeam": "Magallanes",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Copa Chile 2022"
+    },
+    {
+        "date": "12 de Octubre, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Magallanes",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Copa Chile 2022"
+    },
+    {
+        "date": "08 de Octubre, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Coquimbo Unido",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "01 de Octubre, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Antofagasta",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "25 de Septiembre, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Ñublense",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Copa Chile 2022"
+    },
+    {
+        "date": "15 de Septiembre, 2022",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "10 de Septiembre, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "28 de Agosto, 2022",
+        "stadium": "Estadio El Cobre",
+        "homeTeam": "Cobresal",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "23 de Agosto, 2022",
+        "stadium": "Francisco Sánchez Rumoroso",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Copa Chile 2022"
+    },
+    {
+        "date": "19 de Agosto, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Coquimbo Unido",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Copa Chile 2022"
+    },
+    {
+        "date": "14 de Agosto, 2022",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "08 de Agosto, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión La Calera",
+        "homeScore": 3,
+        "awayScore": 4,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "30 de Julio, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 2,
+        "awayScore": 5,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "23 de Julio, 2022",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "18 de Julio, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "09 de Julio, 2022",
+        "stadium": "Municipal La Florida",
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "03 de Julio, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Curicó Unido",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "26 de Junio, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Puerto Montt",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Copa Chile 2022"
+    },
+    {
+        "date": "19 de Junio, 2022",
+        "stadium": "Regional de Chinquihue",
+        "homeTeam": "Puerto Montt",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Copa Chile 2022"
+    },
+    {
+        "date": "29 de Mayo, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "21 de Mayo, 2022",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "15 de Mayo, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Ñublense",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "09 de Mayo, 2022",
+        "stadium": "Francisco Sánchez Rumoroso",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "23 de Abril, 2022",
+        "stadium": "Regional Calvo y Bascuñán",
+        "homeTeam": "Antofagasta",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "17 de Abril, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "09 de Abril, 2022",
+        "stadium": "Sausalito",
+        "homeTeam": "Everton",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "03 de Abril, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "20 de Marzo, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "13 de Marzo, 2022",
+        "stadium": "Nicolás Chahuán",
+        "homeTeam": "Unión La Calera",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "05 de Marzo, 2022",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "27 de Febrero, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "18 de Febrero, 2022",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "12 de Febrero, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Audax Italiano",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "08 de Febrero, 2022",
+        "stadium": "La Granja",
+        "homeTeam": "Curicó Unido",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Liga Chilena 2022"
+    },
+    {
+        "date": "26 de Enero, 2022",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Copiapó",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Promoción Primera División 2021"
+    },
+    {
+        "date": "22 de Enero, 2022",
+        "stadium": "Luis Valenzuela",
+        "homeTeam": "Copiapó",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Promoción Primera División 2021"
+    }
+]

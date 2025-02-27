@@ -1,0 +1,326 @@
+[
+    {
+        "date": "24 de Noviembre, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Temuco",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "16 de Noviembre, 1996",
+        "stadium": "Regional Calvo y Bascuñán",
+        "homeTeam": "Antofagasta",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "03 de Noviembre, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "19 de Octubre, 1996",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "12 de Octubre, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Regional Atacama",
+        "homeScore": 5,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "06 de Octubre, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobreloa",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "28 de Septiembre, 1996",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "22 de Septiembre, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "15 de Septiembre, 1996",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 4,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "07 de Septiembre, 1996",
+        "stadium": "Municipal La Florida",
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "18 de Agosto, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Coquimbo Unido",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "15 de Agosto, 1996",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "10 de Agosto, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "03 de Agosto, 1996",
+        "stadium": "Municipal Rubén Marcos Peralta",
+        "homeTeam": "Osorno",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "28 de Julio, 1996",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "21 de Julio, 1996",
+        "stadium": "Germán Becker",
+        "homeTeam": "Temuco",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "14 de Julio, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Antofagasta",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "29 de Junio, 1996",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "22 de Junio, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 3,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "16 de Junio, 1996",
+        "stadium": "Luis Valenzuela",
+        "homeTeam": "Regional Atacama",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "09 de Junio, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "18 de Mayo, 1996",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "12 de Mayo, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "05 de Mayo, 1996",
+        "stadium": "Zorros del Desierto",
+        "homeTeam": "Cobreloa",
+        "awayTeam": "Huachipato",
+        "homeScore": 6,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "28 de Abril, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Audax Italiano",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "14 de Abril, 1996",
+        "stadium": "Francisco Sánchez Rumoroso",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "07 de Abril, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "30 de Marzo, 1996",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "24 de Marzo, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Osorno",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "17 de Marzo, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Wanderers",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1995/96"
+    },
+    {
+        "date": "09 de Marzo, 1996",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1996"
+    },
+    {
+        "date": "06 de Marzo, 1996",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 4,
+        "tournament": "Copa Chile 1996"
+    },
+    {
+        "date": "02 de Marzo, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1996"
+    },
+    {
+        "date": "25 de Febrero, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1996"
+    },
+    {
+        "date": "21 de Febrero, 1996",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1996"
+    },
+    {
+        "date": "18 de Febrero, 1996",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1996"
+    }
+]

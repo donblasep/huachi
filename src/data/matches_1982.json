@@ -1,0 +1,110 @@
+[
+    {
+        "date": "11 de Febrero, 1982",
+        "stadium": "Municipal de Los Ángeles",
+        "homeTeam": "CDS Iberia",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "07 de Febrero, 1982",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Coquimbo Unido",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "04 de Febrero, 1982",
+        "stadium": "Municipal de San Felipe",
+        "homeTeam": "Unión San Felipe",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "01 de Febrero, 1982",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Arica",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "28 de Enero, 1982",
+        "stadium": "Arturo Rojas",
+        "homeTeam": "CD Ferroviarios",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "24 de Enero, 1982",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Lota Schwager",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "20 de Enero, 1982",
+        "stadium": "Jorge Silva Valenzuela",
+        "homeTeam": "Colchagua",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "17 de Enero, 1982",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "13 de Enero, 1982",
+        "stadium": "Regional Calvo y Bascuñán",
+        "homeTeam": "Antofagasta",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "10 de Enero, 1982",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Green Cross",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "07 de Enero, 1982",
+        "stadium": "Alberto Larraguibel Morales",
+        "homeTeam": "Malleco Unido Joven",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Ascenso Betsson 1981"
+    },
+    {
+        "date": "03 de Enero, 1982",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Ovalle",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Ascenso Betsson 1981"
+    }
+]

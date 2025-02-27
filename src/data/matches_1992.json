@@ -1,0 +1,380 @@
+[
+    {
+        "date": "19 de Diciembre, 1992",
+        "stadium": "Ester Roa",
+        "homeTeam": "Fernández Vial",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "13 de Diciembre, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "05 de Diciembre, 1992",
+        "stadium": "Estadio El Cobre",
+        "homeTeam": "Cobresal",
+        "awayTeam": "Huachipato",
+        "homeScore": 5,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "29 de Noviembre, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "22 de Noviembre, 1992",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "19 de Noviembre, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Antofagasta",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "14 de Noviembre, 1992",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "07 de Noviembre, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "01 de Noviembre, 1992",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "25 de Octubre, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Coquimbo Unido",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "18 de Octubre, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "11 de Octubre, 1992",
+        "stadium": "Zorros del Desierto",
+        "homeTeam": "Cobreloa",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "04 de Octubre, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 3,
+        "awayScore": 4,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "26 de Septiembre, 1992",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 5,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "20 de Septiembre, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Temuco",
+        "homeScore": 4,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "13 de Septiembre, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Fernández Vial",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "06 de Septiembre, 1992",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "30 de Agosto, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "15 de Agosto, 1992",
+        "stadium": "Sausalito",
+        "homeTeam": "Everton",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "09 de Agosto, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "06 de Agosto, 1992",
+        "stadium": "Regional Calvo y Bascuñán",
+        "homeTeam": "Antofagasta",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "02 de Agosto, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "26 de Julio, 1992",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 6,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "19 de Julio, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "11 de Julio, 1992",
+        "stadium": "Francisco Sánchez Rumoroso",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "04 de Julio, 1992",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "21 de Junio, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobreloa",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "14 de Junio, 1992",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "07 de Junio, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "31 de Mayo, 1992",
+        "stadium": "Germán Becker",
+        "homeTeam": "Temuco",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1991/92"
+    },
+    {
+        "date": "13 de Mayo, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "10 de Mayo, 1992",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "02 de Mayo, 1992",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "26 de Abril, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Lota Schwager",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "19 de Abril, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Temuco",
+        "homeScore": 4,
+        "awayScore": 3,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "11 de Abril, 1992",
+        "stadium": "Municipal Joaquín Muñoz García",
+        "homeTeam": "Unión Santa Cruz",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "05 de Abril, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Fernández Vial",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "29 de Marzo, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "22 de Marzo, 1992",
+        "stadium": "Federico Schwager",
+        "homeTeam": "Lota Schwager",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "15 de Marzo, 1992",
+        "stadium": "Germán Becker",
+        "homeTeam": "Temuco",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "08 de Marzo, 1992",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Santa Cruz",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1992"
+    },
+    {
+        "date": "29 de Febrero, 1992",
+        "stadium": "Ester Roa",
+        "homeTeam": "Fernández Vial",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Copa Chile 1992"
+    }
+]

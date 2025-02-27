@@ -1,0 +1,362 @@
+[
+    {
+        "date": "28 de Diciembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Magallanes",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "18 de Diciembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "15 de Diciembre, 1974",
+        "stadium": "Regional Calvo y Bascuñán",
+        "homeTeam": "Regional Antofagasta",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "11 de Diciembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "08 de Diciembre, 1974",
+        "stadium": "El Morro",
+        "homeTeam": "Los Náuticos",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "01 de Diciembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Green Cross",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "27 de Noviembre, 1974",
+        "stadium": "Municipal de San Felipe",
+        "homeTeam": "Unión San Felipe",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "24 de Noviembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "17 de Noviembre, 1974",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "13 de Noviembre, 1974",
+        "stadium": "Reinaldo Martín Müller",
+        "homeTeam": "Deportes Aviación",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "09 de Noviembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Rangers de Talca",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "02 de Noviembre, 1974",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 4,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "30 de Octubre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "27 de Octubre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "20 de Octubre, 1974",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "16 de Octubre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión La Calera",
+        "homeScore": 4,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "11 de Octubre, 1974",
+        "stadium": "Municipal San Bernardo",
+        "homeTeam": "Magallanes",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "05 de Octubre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Lota Schwager",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "02 de Octubre, 1974",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "29 de Septiembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Regional Antofagasta",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "21 de Septiembre, 1974",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "18 de Septiembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Los Náuticos",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "15 de Septiembre, 1974",
+        "stadium": "Municipal de Ñuñoa",
+        "homeTeam": "Green Cross",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "10 de Septiembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión San Felipe",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "08 de Septiembre, 1974",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "01 de Septiembre, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973/74"
+    },
+    {
+        "date": "21 de Agosto, 1974",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1974"
+    },
+    {
+        "date": "18 de Agosto, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1974"
+    },
+    {
+        "date": "15 de Agosto, 1974",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Copa Chile 1974"
+    },
+    {
+        "date": "11 de Agosto, 1974",
+        "stadium": "Federico Schwager",
+        "homeTeam": "Lota Schwager",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1974"
+    },
+    {
+        "date": "04 de Agosto, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Lota Schwager",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Copa Chile 1974"
+    },
+    {
+        "date": "23 de Febrero, 1974",
+        "stadium": "Regional Calvo y Bascuñán",
+        "homeTeam": "Antofagasta Portuario",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "16 de Febrero, 1974",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "09 de Febrero, 1974",
+        "stadium": "Municipal San Bernardo",
+        "homeTeam": "Magallanes",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "02 de Febrero, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión La Calera",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "27 de Enero, 1974",
+        "stadium": "Fiscal de Talca",
+        "homeTeam": "Rangers de Talca",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "20 de Enero, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Los Náuticos",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "13 de Enero, 1974",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "10 de Enero, 1974",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1973"
+    },
+    {
+        "date": "06 de Enero, 1974",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Wanderers",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1973"
+    }
+]

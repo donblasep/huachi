@@ -1,0 +1,326 @@
+[
+    {
+        "date": "28 de Diciembre, 1968",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "21 de Diciembre, 1968",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "14 de Diciembre, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Green Cross",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "07 de Diciembre, 1968",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "30 de Noviembre, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Morning",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "23 de Noviembre, 1968",
+        "stadium": "Sausalito",
+        "homeTeam": "Everton",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "16 de Noviembre, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Audax Italiano",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "09 de Noviembre, 1968",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "03 de Noviembre, 1968",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "26 de Octubre, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "18 de Octubre, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Wanderers",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "13 de Octubre, 1968",
+        "stadium": "Municipal de Ñuñoa",
+        "homeTeam": "Green Cross",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "05 de Octubre, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "29 de Septiembre, 1968",
+        "stadium": "Municipal de La Pintana",
+        "homeTeam": "Santiago Morning",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "21 de Septiembre, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "14 de Septiembre, 1968",
+        "stadium": "Municipal La Florida",
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "08 de Septiembre, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "01 de Septiembre, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "18 de Agosto, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "11 de Agosto, 1968",
+        "stadium": "Sausalito",
+        "homeTeam": "Everton",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "04 de Agosto, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Rangers de Talca",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "28 de Julio, 1968",
+        "stadium": "Nicolás Chahuán",
+        "homeTeam": "Unión La Calera",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "21 de Julio, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 5,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "14 de Julio, 1968",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "06 de Julio, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "30 de Junio, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión San Felipe",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "23 de Junio, 1968",
+        "stadium": "Municipal de Ñuñoa",
+        "homeTeam": "Green Cross",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "16 de Junio, 1968",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "09 de Junio, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 5,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "02 de Junio, 1968",
+        "stadium": "Fiscal de Talca",
+        "homeTeam": "Rangers de Talca",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "26 de Mayo, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión La Calera",
+        "homeScore": 5,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "19 de Mayo, 1968",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "12 de Mayo, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Wanderers",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "05 de Mayo, 1968",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "28 de Abril, 1968",
+        "stadium": "Municipal de San Felipe",
+        "homeTeam": "Unión San Felipe",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1968"
+    },
+    {
+        "date": "21 de Abril, 1968",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Green Cross",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1968"
+    }
+]

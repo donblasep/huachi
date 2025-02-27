@@ -1,0 +1,362 @@
+[
+    {
+        "date": "22 de Noviembre, 2008",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "15 de Noviembre, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "09 de Noviembre, 2008",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "02 de Noviembre, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "28 de Octubre, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Copa Chile 2008"
+    },
+    {
+        "date": "25 de Octubre, 2008",
+        "stadium": "Nicolás Chahuán",
+        "homeTeam": "Ñublense",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "19 de Octubre, 2008",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "04 de Octubre, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Melipilla",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "21 de Septiembre, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 4,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "14 de Septiembre, 2008",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "31 de Agosto, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "24 de Agosto, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Palestino",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "17 de Agosto, 2008",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 4,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "10 de Agosto, 2008",
+        "stadium": "Estadio El Cobre",
+        "homeTeam": "Cobresal",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "02 de Agosto, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Rangers de Talca",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "27 de Julio, 2008",
+        "stadium": "Municipal La Florida",
+        "homeTeam": "Audax Italiano",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 3,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "19 de Julio, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Concepción",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "13 de Julio, 2008",
+        "stadium": "Regional Calvo y Bascuñán",
+        "homeTeam": "Antofagasta",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "06 de Julio, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Morning",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "28 de Junio, 2008",
+        "stadium": "Municipal Rubén Marcos Peralta",
+        "homeTeam": "Osorno",
+        "awayTeam": "Huachipato",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "22 de Junio, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobreloa",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Clausura 2008"
+    },
+    {
+        "date": "04 de Mayo, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 0,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "29 de Abril, 2008",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "26 de Abril, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Ñublense",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "20 de Abril, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "13 de Abril, 2008",
+        "stadium": "Municipal Roberto Bravo",
+        "homeTeam": "Melipilla",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 4,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "05 de Abril, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "29 de Marzo, 2008",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "23 de Marzo, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "15 de Marzo, 2008",
+        "stadium": "Sausalito",
+        "homeTeam": "Everton",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "12 de Marzo, 2008",
+        "stadium": "Municipal La Pintana",
+        "homeTeam": "Palestino",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "08 de Marzo, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "05 de Marzo, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Cobresal",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "01 de Marzo, 2008",
+        "stadium": "Fiscal de Talca",
+        "homeTeam": "Rangers de Talca",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "24 de Febrero, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Audax Italiano",
+        "homeScore": 1,
+        "awayScore": 4,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "16 de Febrero, 2008",
+        "stadium": "Ester Roa",
+        "homeTeam": "Univ. Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "13 de Febrero, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Antofagasta",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "10 de Febrero, 2008",
+        "stadium": "Municipal de La Pintana",
+        "homeTeam": "Santiago Morning",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "03 de Febrero, 2008",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Osorno",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Liga Chilena Apertura 2008"
+    },
+    {
+        "date": "27 de Enero, 2008",
+        "stadium": "Zorros del Desierto",
+        "homeTeam": "Cobreloa",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Liga Chilena Apertura 2008"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "20 de Febrero, 1970",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Górnik Zabrze",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Amistosos Clubes 1970"
+    },
+    {
+        "date": "17 de Febrero, 1970",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Amistosos Clubes 1970"
+    },
+    {
+        "date": "13 de Febrero, 1970",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Amistosos Clubes 1970"
+    }
+]

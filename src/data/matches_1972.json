@@ -1,0 +1,308 @@
+[
+    {
+        "date": "21 de Diciembre, 1972",
+        "stadium": "Los Potreros",
+        "homeTeam": "Deportes Concepción",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "16 de Diciembre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Colo-Colo",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "09 de Diciembre, 1972",
+        "stadium": "Estadio La Portada",
+        "homeTeam": "La Serena",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "03 de Diciembre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Antofagasta Portuario",
+        "homeScore": 4,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "26 de Noviembre, 1972",
+        "stadium": "Nicolás Chahuán",
+        "homeTeam": "Unión La Calera",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "19 de Noviembre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Everton",
+        "homeScore": 3,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "15 de Noviembre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Magallanes",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "12 de Noviembre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión Española",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "05 de Noviembre, 1972",
+        "stadium": "Municipal de Ñuñoa",
+        "homeTeam": "Green Cross",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "01 de Noviembre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Lota Schwager",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "29 de Octubre, 1972",
+        "stadium": "Nacional",
+        "homeTeam": "Universidad de Chile",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "12 de Octubre, 1972",
+        "stadium": "Elías Figueroa",
+        "homeTeam": "Santiago Wanderers",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "08 de Octubre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Rangers de Talca",
+        "homeScore": 2,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "30 de Septiembre, 1972",
+        "stadium": "El Teniente",
+        "homeTeam": "OHiggins",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "24 de Septiembre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Los Náuticos",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "16 de Septiembre, 1972",
+        "stadium": "Santa Laura",
+        "homeTeam": "Univ. Católica",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "10 de Septiembre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión San Felipe",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "03 de Septiembre, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Deportes Concepción",
+        "homeScore": 3,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "30 de Agosto, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Green Cross",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "27 de Agosto, 1972",
+        "stadium": "Monumental",
+        "homeTeam": "Colo-Colo",
+        "awayTeam": "Huachipato",
+        "homeScore": 4,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "20 de Agosto, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "La Serena",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "06 de Agosto, 1972",
+        "stadium": "Regional Calvo y Bascuñán",
+        "homeTeam": "Antofagasta Portuario",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "01 de Agosto, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Unión La Calera",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "23 de Julio, 1972",
+        "stadium": "Sausalito",
+        "homeTeam": "Everton",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 3,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "16 de Julio, 1972",
+        "stadium": "Santa Laura",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "21 de Mayo, 1972",
+        "stadium": "Federico Schwager",
+        "homeTeam": "Lota Schwager",
+        "awayTeam": "Huachipato",
+        "homeScore": 0,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "13 de Mayo, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Universidad de Chile",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "29 de Abril, 1972",
+        "stadium": "Municipal San Bernardo",
+        "homeTeam": "Magallanes",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "23 de Abril, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Santiago Wanderers",
+        "homeScore": 1,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "19 de Abril, 1972",
+        "stadium": "Municipal de San Felipe",
+        "homeTeam": "Unión San Felipe",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "16 de Abril, 1972",
+        "stadium": "Fiscal de Talca",
+        "homeTeam": "Rangers de Talca",
+        "awayTeam": "Huachipato",
+        "homeScore": 1,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "08 de Abril, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "OHiggins",
+        "homeScore": 3,
+        "awayScore": 1,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "02 de Abril, 1972",
+        "stadium": "El Morro",
+        "homeTeam": "Los Náuticos",
+        "awayTeam": "Huachipato",
+        "homeScore": 2,
+        "awayScore": 2,
+        "tournament": "Primera Division de Chile 1972"
+    },
+    {
+        "date": "26 de Marzo, 1972",
+        "stadium": "Estadio CAP",
+        "homeTeam": "Huachipato",
+        "awayTeam": "Univ. Católica",
+        "homeScore": 2,
+        "awayScore": 0,
+        "tournament": "Primera Division de Chile 1972"
+    }
+]
