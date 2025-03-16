@@ -14,31 +14,22 @@ interface Match {
 // Cargar los archivos JSON de manera perezosa
 const matchFiles = import.meta.glob('../data/matches_*.json');
 
-// Cargar todos los archivos JSON de la carpeta data
-
 // Cargar los logos de los clubes de manera perezosa
-const logoFiles = import.meta.glob('../assets/logos/*.webp');
+const logoFiles = import.meta.glob("../assets/logos/*.webp");
 
 const loadLogos = async () => {
   const logos: { [key: string]: string } = {};
 
   for (const path in logoFiles) {
     const teamName = path.replace("../assets/logos/", "").replace(".webp", "");
-    const normalizedTeamName = normalizeTeamName(teamName) === "evertondevinadelmar" ? "everton" : normalizeTeamName(teamName);    
+    const normalizedTeamName = normalizeTeamName(teamName);
     console.log(`Attempting to load logo for: ${normalizedTeamName}`);
     try {
       const logoModule = (await logoFiles[path]()) as { default: string };
       logos[normalizedTeamName] = logoModule.default;
-      console.log(
-        `Loaded logo for ${normalizedTeamName}: ${logoModule.default}`
-      );
+      console.log(`Loaded logo for ${normalizedTeamName}: ${logoModule.default}`);
     } catch (error) {
-      // Manejo de caso donde el logo no se encuentra
       console.error(`Failed to load logo for ${normalizedTeamName}:`, error);
-      if (normalizedTeamName === "everton") {
-        logos[normalizedTeamName] = "../assets/logos/evertondevinadelmar.webp"; 
-        console.log(`Using fallback logo for ${normalizedTeamName}: ../assets/logos/evertondevinadelmar.webp`);
-      }
     }
   }
 
@@ -48,7 +39,7 @@ const loadLogos = async () => {
 
 // Función para normalizar el nombre del equipo
 const normalizeTeamName = (teamName: string) => {
-  const normalized = teamName
+  let normalized = teamName
     .replace(/ñ/g, "n")
     .replace(/á/g, "a")
     .replace(/é/g, "e")
@@ -59,11 +50,10 @@ const normalizeTeamName = (teamName: string) => {
     .replace(/'/g, "")
     .toLowerCase()
     .replace(/\s+/g, "");
-  
-  // Añadir regla para normalizar "evertondevinadelmar" a "everton"
-  if (normalized === "evertondevinadelmar") {
-    console.log(`Normalized team name: ${teamName} -> everton`);
-    return "everton";
+
+  // Caso especial para Everton
+  if (normalized === "everton") {
+    normalized = "evertondevinadelmar";
   }
 
   console.log(`Normalized team name: ${teamName} -> ${normalized}`);
@@ -101,30 +91,28 @@ function Results() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const fetchInitialData = async () => {
+    const loadLogosAndMatches = async () => {
+      // Cargar logos
+      const loadedLogos = await loadLogos();
+      setLogos(loadedLogos);
+
+      // Cargar partidos iniciales
       const loadedMatches = await loadMatchesForYear('2024');
       setAllMatches((prevMatches) => ({
         ...prevMatches,
         '2024': loadedMatches,
       }));
       setMatches(loadedMatches || []);
-      setAvailableYears(Object.keys(matchFiles).map(path => path.match(/matches_(\d{4})\.json$/)?.[1] || '').filter(Boolean));
+      
+      // Configurar años disponibles
+      setAvailableYears(Object.keys(matchFiles)
+        .map(path => path.match(/matches_(\d{4})\.json$/)?.[1] || '')
+        .filter(Boolean));
+      
       setLoading(false);
     };
 
-    const fetchLogos = async () => {
-      const cachedLogos = localStorage.getItem('logos');
-      if (cachedLogos) {
-        setLogos(JSON.parse(cachedLogos));
-      } else {
-        const loadedLogos = await loadLogos();
-        setLogos(loadedLogos);
-        localStorage.setItem('logos', JSON.stringify(loadedLogos));
-      }
-    };
-
-    fetchInitialData();
-    fetchLogos();
+    loadLogosAndMatches();
   }, []);
 
   const loadMatchesForYear = async (selectedYear: string) => {
@@ -159,13 +147,10 @@ function Results() {
 
   const handleImageError = (e: React.SyntheticEvent<HTMLImageElement, Event>, teamName: string) => {
     const normalizedTeamName = normalizeTeamName(teamName);
-    console.error(`Failed to load image for ${normalizedTeamName}. Attempting to load fallback image.`);
+    console.error(`Failed to load image for ${normalizedTeamName}. Using default image.`);
     
-    if (normalizedTeamName === "everton") {
-      e.currentTarget.src = "src/assets/logos/evertondevinadelmar.webp"; // Ruta del logo de fallback
-    } else {
-      e.currentTarget.src = '/path/to/default/image.png'; // Ruta de la imagen predeterminada
-    }
+    // Usar una imagen genérica por defecto
+    e.currentTarget.src = "/default-team.webp"; // Esta imagen debe estar en la carpeta public
   };
 
   return (
@@ -191,7 +176,7 @@ function Results() {
           matches.map((match, index) => (
             <div 
               key={index}
-              className="bg-gradient-to-br from-blue-900 to-black rounded-lg sm:p-8 p-5 max-w-lg mx-auto border border-blue-800 text-center h-[260px] sm:h-[292px]"
+              className="bg-gradient-to-br from-blue-900 to-black rounded-lg p-8 max-w-lg mx-auto border border-blue-800 text-center"
             >
               <div className="flex items-center justify-between mb-4">
                 <span className="text-gray-300">{match.date}</span>
@@ -199,23 +184,21 @@ function Results() {
               </div>
               <div className="flex items-center justify-between bg-black/50 p-6 rounded-lg border border-blue-900">
                 <div className="text-center">
+                  <p className="text-white text-lg mb-2">{match.homeTeam}</p>
                   <img 
-                    src={logos[normalizeTeamName(match.homeTeam)]} 
+                    src={logos[normalizeTeamName(match.homeTeam)] || "../assets/logos/default-team.webp"}
                     alt={match.homeTeam} 
                     className="size-20 sm:size-24 mx-auto"
-                    loading="lazy"
-                    onError={(e) => handleImageError(e, normalizeTeamName(match.homeTeam))}
                   />
                   <p className="text-4xl font-bold text-blue-500">{match.homeScore}</p>
                 </div>
                 <div className="text-white text-xl">VS</div>
                 <div className="text-center">
+                  <p className="text-white text-lg mb-2">{match.awayTeam}</p>
                   <img 
-                    src={logos[normalizeTeamName(match.awayTeam)]} 
+                    src={logos[normalizeTeamName(match.awayTeam)] || "../assets/logos/default-team.webp"}
                     alt={match.awayTeam} 
                     className="size-20 sm:size-24 mx-auto"
-                    loading="lazy"
-                    onError={(e) => handleImageError(e, normalizeTeamName(match.awayTeam))}
                   />
                   <p className="text-4xl font-bold text-blue-500">{match.awayScore}</p>
                 </div>

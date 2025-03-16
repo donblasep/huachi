@@ -35,6 +35,7 @@ const Results = lazy(() => import("./pages/Results"));
 const Squad = lazy(() => import("./pages/Squad"));
 const AboutUs = lazy(() => import("./pages/AboutUs"));
 const Honours = lazy(() => import("./pages/Honours"));
+const JerseyQuiz = lazy(() => import("./pages/JerseyQuiz"));
 
 function App() {
   return (
@@ -324,6 +325,7 @@ function App() {
             <Route path="/squad" element={<Squad />} />
             <Route path="/about" element={<AboutUs />} />
             <Route path="/honours" element={<Honours />} />
+            <Route path="/jersey-quiz" element={<JerseyQuiz />} />
           </Routes>
         </Suspense>
       </div>
